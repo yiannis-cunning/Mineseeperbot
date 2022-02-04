@@ -11,4 +11,4 @@ maximized chrome window and then defualt position when you press play.
 The bot itself is also not 100% able to beat the game by itself as there are some situations that it will get stuck on,
 (and that are still able to be determined), but for how it was used it worked well enough.
 
-This project was mainly practice of my python skills so there is not alot of userability in it.
+This project was mainly practice of my python skills and to hack together a bot so there is not alot of userability in it.
